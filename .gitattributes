@@ -1,0 +1,2 @@
+database/*.RDS filter=lfs diff=lfs merge=lfs -text
+data/gencode.v38.pc_translations.fa filter=lfs diff=lfs merge=lfs -text
